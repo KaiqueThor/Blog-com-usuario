@@ -1,2 +1,2 @@
 # Blog com usuario
- Site de blog com usuario para postar as coisas direto pelo painel administrativo
+ Site de blog com usuario para postar no site direto do painel administrativo.
